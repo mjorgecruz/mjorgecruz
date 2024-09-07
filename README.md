@@ -44,7 +44,8 @@ _Coursework developed during the [Common Core curriculum](https://42.fr/en/the-p
 </br>
 
 </br>
-
+<div align="center">
+    
 Rank | Project | Tags | Language | Score 
 :--:|:--:|:--:|:--:|:--:
 5 | Inception | `docker` `containers` | `shell` | 
@@ -60,6 +61,8 @@ Rank | Project | Tags | Language | Score
 1 | [get_next_line]() | `static variable`, `file descriptor` | `C` | 112/100 
 1 | [ft_printf]() | `variadic functions` | `C` , `Makefile` | 100/100 
 0 | [Libft]() | `C library`, `standard C functions` | `C` , `Makefile` | 112/100 |
+
+</div>
 
 ___
 
