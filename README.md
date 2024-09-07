@@ -32,11 +32,13 @@ ___
 ___
 
 # 42 Common Core
-![Common Core curriculum](https://img.shields.io/badge/42%20School-Common%20Core%20curriculum-%2315bbbb)
+
+ <img src="https://img.shields.io/badge/42%20School-Common%20Core%20curriculum-%2315bbbb" alt="42"/>
 
 _Coursework developed during the [Common Core curriculum](https://42.fr/en/the-program/software-engineer-degree/) at 42 Porto, part of the global 42 Network._
 
 </br>
+<div align="center">
 
 >[!NOTE]
 >This codebase follows the applicable programming standard at 42, known as [the Norm](https://github.com/teresa-chow/42-common-core/blob/main/en_norm_v4_2023.pdf).
@@ -44,7 +46,6 @@ _Coursework developed during the [Common Core curriculum](https://42.fr/en/the-p
 </br>
 
 </br>
-<div align="center">
     
 Rank | Project | Tags | Language | Score 
 :--:|:--:|:--:|:--:|:--:
