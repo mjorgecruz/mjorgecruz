@@ -40,13 +40,18 @@ ___
 </div>
 
 <div align="center">
+    <p><strong>NOTE:</strong> This codebase follows the applicable programming standard at 42, known as 
+    <a href="https://github.com/teresa-chow/42-common-core/blob/main/en_norm_v4_2023.pdf">the Norm</a>.</p>
+</div>
+
+<div align="center">
 </br>
 
 >[!NOTE]
 >This codebase follows the applicable programming standard at 42, known as [the Norm](https://github.com/teresa-chow/42-common-core/blob/main/en_norm_v4_2023.pdf).
 
 </br>
-
+</div>
 </br>
     
 Rank | Project | Tags | Language | Score 
