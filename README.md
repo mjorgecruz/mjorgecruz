@@ -45,6 +45,7 @@ ___
 </div>
 
 </br>
+<div align="center">
     
 Rank | Project | Tags | Language | Score 
 :--:|:--:|:--:|:--:|:--:
@@ -69,5 +70,8 @@ ___
 </br>
 
 # Mechanical Enginnering
-
-
+<div align="center">
+    
+Context | Project | Tags 
+:--:|:--:|:--:
+Master's Thesis | Development of a Transfemural Prosthesis | `powered knee` `biomechanics` `mechanical design` `automation`  
