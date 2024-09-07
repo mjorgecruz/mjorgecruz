@@ -38,6 +38,8 @@ ___
     <img src="https://img.shields.io/badge/42%20School-Common%20Core%20curriculum-%2315bbbb" alt="42"/>
 </a>
 
+</div>
+
 </br>
 
 >[!NOTE]
