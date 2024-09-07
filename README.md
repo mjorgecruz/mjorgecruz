@@ -12,7 +12,7 @@ ___
 <div align="center">
     <img src="https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5" alt="C"/>
     <img src="https://img.shields.io/badge/c%2B%2B-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=3893F5" alt="C++"/>
-    <img src="https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
+    <img src="https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=3893F5" alt="Shell"/>
 </div>
 
 ___
