@@ -32,15 +32,11 @@ ___
 ___
 # 42 Common Core
 
+
+<div align="center">
 <a href="https://42.fr/en/the-program/software-engineer-degree/">
     <img src="https://img.shields.io/badge/42%20School-Common%20Core%20curriculum-%2315bbbb" alt="42"/>
 </a>
-
-<div align="center">
- <img src="https://img.shields.io/badge/42%20School-Common%20Core%20curriculum-%2315bbbb" alt="42" link="https://42.fr/en/the-program/software-engineer-degree/"/>
-    </br>
-    _[Common Core curriculum](https://42.fr/en/the-program/software-engineer-degree/)_
- 
 
 </br>
 
