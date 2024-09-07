@@ -50,8 +50,8 @@ ___
 Rank | Project | Tags | Language | Score 
 :--:|:--:|:--:|:--:|:--:
 5 | Inception | `docker` , `containers` | `shell` | 
-4 | CPP (00-04) | | `C++`| 100/100
-4 | NetPractice | | | 100/100
+4 | CPP (00-04) | | `C++`| <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=100&labelColor=7CFC00&color=grey"/>
+4 | NetPractice | | | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=100&labelColor=7CFC00&color=grey"/>
 4 | Cub3D | | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 3 | Minishell | `processes` , `UNIX signals` , `shell` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 3 | Philosophers | `threads` , `processes` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
@@ -59,9 +59,9 @@ Rank | Project | Tags | Language | Score
 2 | push_swap | `sorting` , `sorting algorithms` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 2 | [minitalk]() | `server-client communication` , `UNIX signals` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 1 | [Born2beRoot] | `VM` , `system administration` | `shell` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
-1 | [get_next_line]() | `static variable` , `file descriptor` | `C` | 112/100 
-1 | [ft_printf]() | `variadic functions` | `C` , `Makefile` | 100/100 
-0 | [Libft]() | `C library`, `standard C functions` | `C` , `Makefile` | 112/100 |
+1 | [get_next_line]() | `static variable` , `file descriptor` | `C` |  <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=112&labelColor=90EE90&color=grey"/>
+1 | [ft_printf]() | `variadic functions` | `C` , `Makefile` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=100&labelColor=D0F0C0&color=grey">
+0 | [Libft]() | `C library`, `standard C functions` | `C` , `Makefile` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=112&labelColor=90EE90&color=grey"/>
 
 </div>
 
