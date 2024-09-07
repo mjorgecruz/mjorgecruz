@@ -37,8 +37,10 @@ ___
 _Coursework developed during the [Common Core curriculum](https://42.fr/en/the-program/software-engineer-degree/) at 42 Porto, part of the global 42 Network._
 
 </br>
+
 >[!NOTE]
 >This codebase follows the applicable programming standard at 42, known as [the Norm](https://github.com/teresa-chow/42-common-core/blob/main/en_norm_v4_2023.pdf).
+
 </br>
 
 </br>
