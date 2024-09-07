@@ -6,7 +6,7 @@ I am a Mechanical Engineer with experience in mechanical design, fluid mechanics
 Above all, I am always eager to learn and I am now focusing on programming, IT and Network.
 
 </br>
-<br>
+<br align="center">
 
 ___
 ### Languages
@@ -15,7 +15,7 @@ ___
 ![Shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </br>
-<br>
+<br align="center">
 
 ___
 ### Software
