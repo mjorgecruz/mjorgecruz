@@ -16,10 +16,18 @@ ___
 </div>
 
 ___
+### Frameworks
+<div align="center">
+    <img src="https://img.shields.io/badge/django-0D1117.svg?style=for-the-badge&logo=django&logoColor=3893F5" alt="django"/>
+
+___
 ### Software
 <div align="center">
     <img src="https://img.shields.io/badge/Inventor-0D1117.svg?style=for-the-badge&logo=autodesk&logoColor=3893F5" alt="INVENTOR"/>
     <img src="https://img.shields.io/badge/Solidworks-0D1117.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=3893F5" alt="SolidWorks"/>
+    <img src="https://img.shields.io/badge/docker-0D1117.svg?style=for-the-badge&logo=docker&logoColor=3893F5 alt="docker"/>
+
+    
 ___
 <!--
 **mjorgecruz/mjorgecruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
