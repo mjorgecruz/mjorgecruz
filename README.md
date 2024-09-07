@@ -19,7 +19,7 @@ ___
 
 ___
 ### Software
-<p align="center">![Inventor](https://img.shields.io/badge/Inventor-0D1117.svg?style=for-the-badge&logo=autodesk&logoColor=3893F5)</p>
+<p align="center"><img src=(https://img.shields.io/badge/Inventor-0D1117.svg?style=for-the-badge&logo=autodesk&logoColor=3893F5))</p>
 
 ![SolidWorks](https://img.shields.io/badge/Solidworks-0D1117.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=3893F5)
 
