@@ -7,7 +7,19 @@ Above all, I am always eager to learn and I am now focusing on programming, IT a
 
 </br>
 
+___
+### Languages
+![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5)
+![C++](https://img.shields.io/badge/c%2B%2B-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=3893F5)
+![Shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+___
+### Software
+![Inventor] (https://img.shields.io/badge/Inventor-0D1117.svg?style=for-the-badge&logo=autodesk&logoColor=3893F5)
+![SolidWorks](https://img.shields.io/badge/Solidworks-0D1117.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=3893F5)
+
+
+___
 <!--
 **mjorgecruz/mjorgecruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
