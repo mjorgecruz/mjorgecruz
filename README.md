@@ -44,10 +44,16 @@ _Coursework developed during the [Common Core curriculum](https://42.fr/en/the-p
 </br>
 
 Rank | Project | Tags | Language | Score 
---|--|--|--|--
-2 | FdF |
-2 | push_swap |
-2 | [minitalk]() | `server-client communication`, `UNIX signals` | 125/100
+:--:|:--:|:--:|:--:|:--:
+5 | Inception | `docker` `containers` | `shell` | 
+4 | CPP (00-04) | | `C++`| 100/100
+4 | NetPractice | | | 100/100
+4 | Cub3D | | `C` | 125/100
+3 | Minishell | `processes` `UNIX signals` `shell` | `C` | 125/100
+3 | Philosophers | `threads` `processes` | `C` | 125/100
+2 | FdF | | `C` | 125/100
+2 | push_swap | | `C` | 125/100
+2 | [minitalk]() | `server-client communication`, `UNIX signals` | `C` | 125/100
 1 | [Born2beRoot] | `VM`, `system administration` | `shell` | 125/100
 1 | [get_next_line]() | `static variable`, `file descriptor` | `C` | 112/100 
 1 | [ft_printf]() | `variadic functions` | `C` , `Makefile` | 100/100 
