@@ -15,12 +15,12 @@ ___
 ![Shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </p>
-<p align="center">
 
 ___
 ### Software
-<p align="center"><img src=(https://img.shields.io/badge/Inventor-0D1117.svg?style=for-the-badge&logo=autodesk&logoColor=3893F5))</p>
-
+<p align="center">
+  
+![Inventor](https://img.shields.io/badge/Inventor-0D1117.svg?style=for-the-badge&logo=autodesk&logoColor=3893F5)
 ![SolidWorks](https://img.shields.io/badge/Solidworks-0D1117.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=3893F5)
 
 </p>
