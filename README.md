@@ -1,11 +1,9 @@
 ## Hi there 👋
 </br>
 
-Mechanical Engineer with experience in mechanical design, fluid mechanics and automation.
+I am a Mechanical Engineer with experience in mechanical design, fluid mechanics and automation. I am accustomed to work in different areas, from project and orders management to design and assembly.
 
-Accustomed to work in different areas, from project and orders management to design and assembly.
-
-Knowledge seeker in various areas of expertise, now focusing on programming, IT and Network.
+Above all, I am always eager to learn and I am now focusing on programming, IT and Network.
 
 </br>
 
