@@ -33,13 +33,15 @@ ___
 # 42 Common Core
 
 
-<a align="center" href="https://42.fr/en/the-program/software-engineer-degree/">
+<div align="center">
+<a href="https://42.fr/en/the-program/software-engineer-degree/">
     <img src="https://img.shields.io/badge/42%20School-Common%20Core%20curriculum-%2315bbbb" alt="42"/>
 </a>
-
-</br>
+</div>
 
 <div align="center">
+</br>
+
 >[!NOTE]
 >This codebase follows the applicable programming standard at 42, known as [the Norm](https://github.com/teresa-chow/42-common-core/blob/main/en_norm_v4_2023.pdf).
 
