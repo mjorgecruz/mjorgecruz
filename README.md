@@ -49,17 +49,17 @@ ___
     
 Rank | Project | Tags | Language | Score 
 :--:|:--:|:--:|:--:|:--:
-5 | Inception | `docker` `containers` | `shell` | 
+5 | Inception | `docker` , `containers` | `shell` | 
 4 | CPP (00-04) | | `C++`| 100/100
 4 | NetPractice | | | 100/100
 4 | Cub3D | | `C` | 125/100
-3 | Minishell | `processes` `UNIX signals` `shell` | `C` | 125/100
-3 | Philosophers | `threads` `processes` | `C` | 125/100
+3 | Minishell | `processes` , `UNIX signals` , `shell` | `C` | 125/100
+3 | Philosophers | `threads` , `processes` | `C` | 125/100
 2 | FdF | | `C` | 125/100
-2 | push_swap | | `C` | 125/100
-2 | [minitalk]() | `server-client communication`, `UNIX signals` | `C` | 125/100
-1 | [Born2beRoot] | `VM`, `system administration` | `shell` | 125/100
-1 | [get_next_line]() | `static variable`, `file descriptor` | `C` | 112/100 
+2 | push_swap | `sorting` , `sorting algorithms` | `C` | 125/100
+2 | [minitalk]() | `server-client communication` , `UNIX signals` | `C` | 125/100
+1 | [Born2beRoot] | `VM` , `system administration` | `shell` | 125/100
+1 | [get_next_line]() | `static variable` , `file descriptor` | `C` | 112/100 
 1 | [ft_printf]() | `variadic functions` | `C` , `Makefile` | 100/100 
 0 | [Libft]() | `C library`, `standard C functions` | `C` , `Makefile` | 112/100 |
 
@@ -78,5 +78,5 @@ ___
 
 Context | Project | Tags 
 :--:|:--:|:--:
-Master's Thesis | Development of a Transfemural Prosthesis | `powered knee` `biomechanics` `mechanical design` `automation` 
-Initiation to project | Abrasion Machine for sample preparation | `gearbox` `power transmission`, `mechanical design`
+Master's Thesis | Development of a Transfemural Prosthesis | `powered knee` , `biomechanics` , `mechanical design` , `automation` 
+Initiation to project | Abrasion Machine for sample preparation | `gearbox` , `power transmission` , `mechanical design`
