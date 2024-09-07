@@ -30,17 +30,19 @@ ___
 </div>
     
 ___
-<!--
-**mjorgecruz/mjorgecruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 42 Common Core
+![Common Core curriculum](https://img.shields.io/badge/42%20School-Common%20Core%20curriculum-%2315bbbb)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Coursework developed during the [Common Core curriculum](https://42.fr/en/the-program/software-engineer-degree/) at 42 Porto, part of the global 42 Network._
+
+___
+
+</br>
+
+>[!NOTE]
+>This codebase follows the applicable programming standard at 42, known as [the Norm](https://github.com/teresa-chow/42-common-core/blob/main/en_norm_v4_2023.pdf).
+
+</br>
+
+
