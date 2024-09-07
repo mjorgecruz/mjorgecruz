@@ -78,4 +78,5 @@ ___
 
 Context | Project | Tags 
 :--:|:--:|:--:
-Master's Thesis | Development of a Transfemural Prosthesis | `powered knee` `biomechanics` `mechanical design` `automation`  
+Master's Thesis | Development of a Transfemural Prosthesis | `powered knee` `biomechanics` `mechanical design` `automation` 
+Initiation to project | Abrasion Machine for sample preparation | `gearbox` `power transmission`, `mechanical design`
