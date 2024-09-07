@@ -1,4 +1,12 @@
 ## Hi there 👋
+</br>
+
+Mechanical Engineer with experience in mechanical design, fluid mechanics and automation.
+Accustomed to work in different areas, from project and orders management to design and assembly.
+Knowledge seeker in various areas of expertise, now focusing on programming, IT and Network.
+
+</br>
+
 
 <!--
 **mjorgecruz/mjorgecruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
