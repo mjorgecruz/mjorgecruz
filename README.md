@@ -20,6 +20,7 @@ ___
 <div align="center">
     <img src="https://img.shields.io/badge/django-0D1117.svg?style=for-the-badge&logo=django&logoColor=3893F5" alt="django"/>
 </div>
+
 ___
 ### Software
 <div align="center">
