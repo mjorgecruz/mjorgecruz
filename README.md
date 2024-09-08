@@ -65,15 +65,15 @@ Rank | Project | Tags | Language | Score
 
 </div>
 
-## Additional Programming Repos
+## Additional Programming Experiences
 <div align="center">
     
 Context | Companies | Project | Tags 
 :--:|:--:|:--:|:--:
-Hachathon | CaetanoBus | | 
-Hachathon | Google Cloud , SPMS | | 
-Hachathon | Vicaima | |
-Hachathon | BA Glass , Google Cloud | | 
+Hachathon | CaetanoBus | Database for production planning | `Django` , `React`
+Hachathon | Google Cloud , SPMS | Smart Agent to aid hospital triage |  `Google Cloud Services` , `Python` , `Cloud Functions`
+[Hachathon](https://github.com/mjorgecruz/vicaima) | Vicaima | Data analysis on the impact of production events on the throughput | `Django`
+[Hachathon](https://github.com/mjorgecruz/BA-Glass_Hackathon) | BA Glass , Google Cloud | | `Google Cloud Services` , `Python`
 
 </div>
 
