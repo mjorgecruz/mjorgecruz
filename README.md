@@ -51,7 +51,7 @@ Rank | Project | Tags | Language | Score
 :--:|:--:|:--:|:--:|:--:
 5 | Inception | `docker` , `containers` | `shell` | 
 4 | CPP (00-04) | | `C++`| <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=100&labelColor=7CFC00&color=grey"/>
-4 | NetPractice | | | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=100&labelColor=7CFC00&color=grey"/>
+4 | NetPractice | `network` , `subnetting` , `IP` , `Subnet Mask`| | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=100&labelColor=7CFC00&color=grey"/>
 4 | Cub3D | | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 3 | Minishell | `processes` , `UNIX signals` , `shell` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 3 | Philosophers | `threads` , `processes` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
