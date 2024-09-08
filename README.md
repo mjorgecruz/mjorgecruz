@@ -51,9 +51,9 @@ Rank | Project | Tags | Language | Score
 :--:|:--:|:--:|:--:|:--:
 5 | [Inception]() | `docker` , `containers` | `shell` | 
 4 | [CPP (00-04)]() |`object oriented programming` , `classes` , `inheritance` | `C++`| <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=100&labelColor=7CFC00&color=grey"/>
-4 | [NetPractice]() | `network` , `subnetting` , `IP` , `Subnet Mask`| | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=100&labelColor=7CFC00&color=grey"/>
-4 | [Cub3D]() | | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
-3 | [Minishell]() | `processes` , `UNIX signals` , `shell` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
+4 | NetPractice | `network` , `subnetting` , `IP` , `Subnet Mask`| | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=100&labelColor=7CFC00&color=grey"/>
+4 | [Cub3D](https://github.com/mjorgecruz/cub3d) | | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
+3 | [Minishell](https://github.com/mjorgecruz/minishell) | `processes` , `UNIX signals` , `shell` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 3 | [Philosophers]() | `threads` , `processes` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 2 | [FdF]() | | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 2 | [push_swap]() | `sorting` , `sorting algorithms` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
@@ -64,6 +64,17 @@ Rank | Project | Tags | Language | Score
 0 | [Libft]() | `C library`, `standard C functions` | `C` , `Makefile` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=112&labelColor=AAFF44&color=grey"/>
 
 </div>
+
+## Additional Programming Repos
+
+Context | Companies | Project | Tags 
+:--:|:--:|:--:
+Hachathon | CaetanoBus | |
+Hachathon | Google Cloud , SNS | |
+Hachathon | Vicaima | |
+Hachathon | BA Glass , Google Cloud | |
+
+
 
 ___
 
