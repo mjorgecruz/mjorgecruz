@@ -68,11 +68,11 @@ Rank | Project | Tags | Language | Score
 ## Additional Programming Repos
 
 Context | Companies | Project | Tags 
-:--:|:--:|:--:
-Hachathon | CaetanoBus | |
-Hachathon | Google Cloud , SNS | |
+:--:|:--:|:--:|:--:
+Hachathon | CaetanoBus | | 
+Hachathon | Google Cloud , SPMS | | 
 Hachathon | Vicaima | |
-Hachathon | BA Glass , Google Cloud | |
+Hachathon | BA Glass , Google Cloud | | 
 
 
 
