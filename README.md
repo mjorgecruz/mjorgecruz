@@ -61,7 +61,7 @@ Rank | Project | Tags | Language | Score
 1 | Born2beRoot | `VM` , `system administration` | `shell` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 1 | [get_next_line]() | `static variable` , `file descriptor` | `C` |  <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=112&labelColor=AAFF44&color=grey"/>
 1 | [ft_printf]() | `variadic functions` | `C` , `Makefile` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=100&labelColor=BBFF77&color=grey">
-0 | [Libft]() | `C library`, `standard C functions` | `C` , `Makefile` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=112&labelColor=AAFF44&color=grey"/>
+0 | [Libft](https://github.com/mjorgecruz/42_libft) | `C library`, `standard C functions` | `C` , `Makefile` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=112&labelColor=AAFF44&color=grey"/>
 
 </div>
 
