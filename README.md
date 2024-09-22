@@ -51,7 +51,7 @@ Rank | Project | Tags | Language | Score
 :--:|:--:|:--:|:--:|:--:
 5 | [Inception](https://github.com/mjorgecruz/42_inception) | `docker` , `containers` | `shell` | 
 4 | [CPP (00-04)](https://github.com/mjorgecruz/42_cpp_00-04/tree/main) |`object oriented programming` , `classes` , `inheritance` | `C++`| <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=100&labelColor=7CFC00&color=grey"/>
-4 | NetPractice | `network` , `subnetting` , `IP` , `Subnet Mask`| | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=100&labelColor=7CFC00&color=grey"/>
+4 | [NetPractice](https://github.com/mjorgecruz/42_netpractice) | `network` , `subnetting` , `IP` , `Subnet Mask`| | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=100&labelColor=7CFC00&color=grey"/>
 4 | [Cub3D](https://github.com/mjorgecruz/42_cub3d) | | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 3 | [Minishell](https://github.com/mjorgecruz/42_minishell) | `processes` , `UNIX signals` , `shell` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 3 | [Philosophers](https://github.com/mjorgecruz/42_philosophers) | `threads` , `processes` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
@@ -70,8 +70,8 @@ Rank | Project | Tags | Language | Score
     
 Context | Companies | Project | Tags 
 :--:|:--:|:--:|:--:
-Hackathon | CaetanoBus | Database for production planning | `Django` , `React`
-Hackathon | Google Cloud , SPMS | Smart Agent to aid hospital triage |  `Google Cloud Services` , `Python` , `Cloud Functions`
+[Hackathon](https://github.com/mjorgecruz/caetano_hackathon)  | CaetanoBus | Database for production planning | `Django` , `React`
+[Hackathon](https://github.com/mjorgecruz/google_hackathon)  | Google Cloud , SPMS | Smart Agent to aid hospital triage |  `Google Cloud Services` , `Python` , `Cloud Functions`
 [Hackathon](https://github.com/mjorgecruz/vicaima) | Vicaima | HR Performance Dialogue Platform | `Django`
 [Project Improvement](https://github.com/mjorgecruz/FdF) | 42Porto | FdF |  
 [Hackathon](https://github.com/mjorgecruz/BA-Glass_Hackathon) | BA Glass , Google Cloud | Data analysis on the impact of production events on the throughput | `Google Cloud Services` , `Python`
