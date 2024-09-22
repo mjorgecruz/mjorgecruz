@@ -92,5 +92,8 @@ ___
 
 Context | Project | Tags 
 :--:|:--:|:--:
-Master's Thesis | Development of a Transfemural Prosthesis | `powered knee` , `biomechanics` , `mechanical design` , `automation` 
-Initiation to project | Abrasion Machine for sample preparation | `gearbox` , `power transmission` , `mechanical design`
+[Master's Thesis](https://github.com/mjorgecruz/masters) | Development of a Transfemural Prosthesis | `powered knee` , `biomechanics` , `mechanical design` , `automation` 
+[Automotive Maintenance Seminar](https://github.com/mjorgecruz/workshop_auto) | Seminar on Automotive Maintenance | `car`, `car maintenance`, `motors`, `mechanical`
+[Initiation to project](https://github.com/mjorgecruz/project_mechanical) | Abrasion Machine for sample preparation | `gearbox` , `power transmission` , `mechanical design`
+[Computer Aided Design](https://github.com/mjorgecruz/chainsaw) | 3D drawing/modelling of a full chainsaw | `3D drawing`, `mechanical design`
+
