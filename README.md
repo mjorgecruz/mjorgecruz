@@ -58,7 +58,7 @@ Rank | Project | Tags | Language | Score
 2 | [FdF](https://github.com/mjorgecruz/42_fdf) | | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 2 | [push_swap](https://github.com/mjorgecruz/42_push_swap) | `sorting` , `sorting algorithms` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 2 | [minitalk](https://github.com/mjorgecruz/42_minitalk) | `server-client communication` , `UNIX signals` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
-1 | [Born2beRoot](https://github.com/mjorgecruz/42_borntoberoot)  | `VM` , `system administration` | `shell` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
+1 | [Born2beRoot](https://github.com/mjorgecruz/42_born2beroot)  | `VM` , `system administration` | `shell` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 1 | [get_next_line](https://github.com/mjorgecruz/42_get_next_line) | `static variable` , `file descriptor` | `C` |  <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=112&labelColor=AAFF44&color=grey"/>
 1 | [ft_printf](https://github.com/mjorgecruz/42_ft_printf) | `variadic functions` | `C` , `Makefile` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=100&labelColor=BBFF77&color=grey">
 0 | [Libft](https://github.com/mjorgecruz/42_libft) | `C library`, `standard C functions` | `C` , `Makefile` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=112&labelColor=AAFF44&color=grey"/>
