@@ -55,7 +55,7 @@ Rank | Project | Tags | Language | Score
 4 | [Cub3D](https://github.com/mjorgecruz/42_cub3d) | `raycasting` `3D programming` `trigonometry` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 3 | [Minishell](https://github.com/mjorgecruz/42_minishell) | `processes` , `UNIX signals` , `shell` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 3 | [Philosophers](https://github.com/mjorgecruz/42_philosophers) | `threads` , `processes` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
-2 | [FdF](https://github.com/mjorgecruz/42_fdf) | `3D images` `bresenham` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
+2 | [FdF](https://github.com/mjorgecruz/42_fdf) | `3D images`, `bresenham` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 2 | [push_swap](https://github.com/mjorgecruz/42_push_swap) | `sorting` , `sorting algorithms` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 2 | [minitalk](https://github.com/mjorgecruz/42_minitalk) | `server-client communication` , `UNIX signals` | `C` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
 1 | [Born2beRoot](https://github.com/mjorgecruz/42_born2beroot)  | `VM` , `system administration` | `shell` | <img src="https://img.shields.io/badge/100-111111?style=for-the-badge&label=125&labelColor=7CFC00&color=grey"/>
