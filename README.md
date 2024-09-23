@@ -73,7 +73,7 @@ Context | Companies | Project | Tags
 [Hackathon](https://github.com/mjorgecruz/caetano_hackathon)  | CaetanoBus | Database for production planning | `Django` , `React`
 [Hackathon](https://github.com/mjorgecruz/google_hackathon)  | Google Cloud , SPMS | Smart Agent to aid hospital triage |  `Google Cloud Services` , `Python` , `Cloud Functions`
 [Hackathon](https://github.com/mjorgecruz/vicaima) | Vicaima | HR Performance Dialogue Platform | `Django`
-[Project Improvement](https://github.com/mjorgecruz/FdF) | 42Porto | FdF |  
+[Project Improvement](https://github.com/mjorgecruz/FdF) | 42Porto | FdF | `C`, `3D programming`, `geometry`  
 [Hackathon](https://github.com/mjorgecruz/BA-Glass_Hackathon) | BA Glass , Google Cloud | Data analysis on the impact of production events on the throughput | `Google Cloud Services` , `Python`
 
 </div>
