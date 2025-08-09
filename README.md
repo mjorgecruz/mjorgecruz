@@ -1,34 +1,49 @@
 ## Hi there 👋
 </br>
 
-I am a Mechanical Engineer with experience in mechanical design, fluid mechanics and automation. I am accustomed to work in different areas, from project and orders management to design and assembly.
+I am a Mechanical Engineer with an MSc in Automation and over five years of R&D experience, combining hardware design, experimental validation, and data analysis.  
+I am a co-author of a peer-reviewed journal article and co-inventor on a granted patent in advanced energy systems, while also developing and testing production-ready solutions.  
 
-Above all, I am always eager to learn and I am now focusing on programming, IT and Network.
+Currently, I’m applying **machine learning**, **computer vision**, and **embedded programming** to autonomous driving projects as part of the SEA:ME program, working across the full development cycle from data preparation and model training to real-time deployment on embedded platforms.
 
 </br>
 
 ___
 ### Programming Languages
 <div align="center">
+    <img src="https://img.shields.io/badge/python-0D1117.svg?style=for-the-badge&logo=python&logoColor=3893F5" alt="Python"/>
     <img src="https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5" alt="C"/>
     <img src="https://img.shields.io/badge/c%2B%2B-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=3893F5" alt="C++"/>
     <img src="https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=3893F5" alt="Shell"/>
+    <img src="https://img.shields.io/badge/javascript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=3893F5" alt="JavaScript"/>
 </div>
 
 ___
-### Frameworks
+### Frameworks & Libraries
 <div align="center">
-    <img src="https://img.shields.io/badge/django-0D1117.svg?style=for-the-badge&logo=django&logoColor=3893F5" alt="django"/>
+    <img src="https://img.shields.io/badge/pytorch-0D1117.svg?style=for-the-badge&logo=pytorch&logoColor=3893F5" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/opencv-0D1117.svg?style=for-the-badge&logo=opencv&logoColor=3893F5" alt="OpenCV"/>
+    <img src="https://img.shields.io/badge/django-0D1117.svg?style=for-the-badge&logo=django&logoColor=3893F5" alt="Django"/>
+    <img src="https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=3893F5" alt="React"/>
+    <img src="https://img.shields.io/badge/tensorflow-0D1117.svg?style=for-the-badge&logo=tensorflow&logoColor=3893F5" alt="TensorFlow"/>
 </div>
 
 ___
-### Software
+### Tools & Platforms
 <div align="center">
-    <img src="https://img.shields.io/badge/Inventor-0D1117.svg?style=for-the-badge&logo=autodesk&logoColor=3893F5" alt="INVENTOR"/>
-    <img src="https://img.shields.io/badge/Solidworks-0D1117.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=3893F5" alt="SolidWorks"/>
-    <img src="https://img.shields.io/badge/docker-0D1117.svg?style=for-the-badge&logo=docker&logoColor=3893F5 alt="docker"/>
+    <img src="https://img.shields.io/badge/docker-0D1117.svg?style=for-the-badge&logo=docker&logoColor=3893F5" alt="Docker"/>
+    <img src="https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=3893F5" alt="Git"/>
+    <img src="https://img.shields.io/badge/linux-0D1117.svg?style=for-the-badge&logo=linux&logoColor=3893F5" alt="Linux"/>
+    <img src="https://img.shields.io/badge/nvidia-0D1117.svg?style=for-the-badge&logo=nvidia&logoColor=3893F5" alt="NVIDIA Jetson"/>
 </div>
-    
+
+___
+### CAD & Mechanical Design
+<div align="center">
+    <img src="https://img.shields.io/badge/inventor-0D1117.svg?style=for-the-badge&logo=autodesk&logoColor=3893F5" alt="Inventor"/>
+    <img src="https://img.shields.io/badge/solidworks-0D1117.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=3893F5" alt="SolidWorks"/>
+</div>
+
 ___
 # 42 Common Core
 
