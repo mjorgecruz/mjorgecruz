@@ -31,7 +31,6 @@ ___
     <img src="https://img.shields.io/badge/docker-0D1117.svg?style=for-the-badge&logo=docker&logoColor=3893F5" alt="Docker"/>
     <img src="https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=3893F5" alt="Git"/>
     <img src="https://img.shields.io/badge/linux-0D1117.svg?style=for-the-badge&logo=linux&logoColor=3893F5" alt="Linux"/>
-    <img src="https://img.shields.io/badge/nvidia-0D1117.svg?style=for-the-badge&logo=nvidia&logoColor=3893F5" alt="NVIDIA Jetson"/>
 </div>
 
 ___
